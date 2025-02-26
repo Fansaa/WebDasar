@@ -66,16 +66,9 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+These projects are open-source. You can download, modify, and share these projects according to your needs.
 
 ---
 
 Thank you for visiting Fansa's Website! Feel free to reach out if you have any questions or feedback.
 ```
-
-### Instructions for Use:
-1. **Customize the Content**: Replace `yourusername` in the clone URL with your actual GitHub username. You can also modify any sections to better reflect your project.
-2. **Add a License**: If you choose to include a license, make sure to create a `LICENSE` file in your repository.
-3. **Save as README.md**: Save this content in a file named `README.md` in the root directory of your project.
-
-This README provides a clear overview of your project and guides users on how to use and contribute to it.
