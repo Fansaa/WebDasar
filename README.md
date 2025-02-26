@@ -1,73 +1,47 @@
 ```markdown
-# Fansa's Website
+# README - Website Fansa
 
-Welcome to Fansa's Website! This is a personal website created to showcase my background, goals, and contact information. The website is built using HTML and CSS, and it is designed to be responsive across various devices.
+## Deskripsi Proyek
+Website ini adalah situs pribadi yang dibuat oleh Fansa, seorang mahasiswa Informatika di Universitas Telkom, Indonesia. Situs ini berfungsi sebagai platform untuk berbagi informasi tentang diri Fansa, termasuk deskripsi, tujuan belajar, dan cara menghubungi melalui media sosial.
 
-## Table of Contents
+## Struktur Proyek
+Proyek ini terdiri dari beberapa file utama:
+- `index.html`: File HTML yang berisi struktur dasar dari website.
+- `style.css`: File CSS yang digunakan untuk mengatur tampilan dan gaya website.
+- `main.js`: File JavaScript yang digunakan untuk menambahkan interaktivitas pada website.
 
-- [Features]
-- [Technologies Used]
-- [Installation]
-- [Usage](#usage)
-- [Contributing]
-- [License]
+## Fitur
+- **Navigasi**: Menu navigasi yang responsif untuk mengakses berbagai bagian website.
+- **Deskripsi**: Menyediakan informasi tentang latar belakang dan minat Fansa.
+- **Tujuan**: Menjelaskan tujuan Fansa dalam mengikuti kelas di Dicoding.
+- **Kontak**: Menyediakan tautan ke profil media sosial Fansa.
+- **Tentang Saya**: Menampilkan informasi singkat tentang Fansa dan foto profil.
 
-## Features
+## Teknologi yang Digunakan
+- HTML5
+- CSS3
+- JavaScript
 
-- **Responsive Design**: The website adapts to different screen sizes, providing a seamless experience on mobile and desktop devices.
-- **Navigation Menu**: Easy navigation through different sections including Deskripsi, Tujuan, and Kontak.
-- **Social Media Links**: Direct links to my social media profiles for easy connectivity.
-- **Personal Information**: A section dedicated to sharing information about myself and my interests.
+## Cara Menjalankan Proyek
+1. **Clone Repository**: Jika proyek ini ada di GitHub, Anda dapat meng-clone repository menggunakan perintah:
+   ```
+   git clone <URL_REPOSITORY>
+   ```
+2. **Buka File HTML**: Buka file `index.html` di browser pilihan Anda.
 
-## Technologies Used
+## Responsivitas
+Website ini dirancang untuk responsif dan dapat diakses dengan baik di berbagai perangkat, termasuk desktop, tablet, dan ponsel. Media query digunakan untuk menyesuaikan tampilan berdasarkan ukuran layar.
 
-- **HTML**: The structure of the website is built using HTML5.
-- **CSS**: Styling is done using CSS for a visually appealing layout.
-- **JavaScript**: (Optional) A JavaScript file (`main.js`) is included for any future interactive features.
+## Kontribusi
+Jika Anda ingin berkontribusi pada proyek ini, silakan fork repository ini dan buat pull request dengan perubahan yang diinginkan.
 
-## Installation
+## Lisensi
+Proyek ini tidak memiliki lisensi khusus. Anda bebas untuk menggunakan dan memodifikasi sesuai kebutuhan.
 
-To run this project locally, follow these steps:
+## Kontak
+Jika Anda memiliki pertanyaan atau saran, silakan hubungi Fansa melalui media sosial:
+- [Instagram](https://www.instagram.com/fathansanum)
+- [LinkedIn](https://www.linkedin.com/in/fathansanum)
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/fansas-website.git
-   
-2. Navigate to the project directory:
-   ```bash
-   cd fansas-website
-   
-3. Open the `index.html` file in your web browser.
-
-## Usage
-
-- Open the website in your preferred web browser.
-- Navigate through the sections using the menu at the top.
-- Click on the social media links to visit my profiles.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to create a pull request or open an issue.
-
-1. Fork the repository.
-2. Create your feature branch:
-   ```bash
-   git checkout -b feature/YourFeature
-   
-3. Commit your changes:
-   ```bash
-   git commit -m "Add some feature"
-   
-4. Push to the branch:
-   ```bash
-   git push origin feature/YourFeature
-   
-5. Open a pull request.
-
-## License
-
-These projects are open-source. You can download, modify, and share these projects according to your needs.
-
----
-
-Thank you for visiting Fansa's Website! Feel free to reach out if you have any questions or feedback.
+Terima kasih telah mengunjungi website ini!
+```
