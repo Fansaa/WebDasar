@@ -24,9 +24,9 @@ Proyek ini terdiri dari beberapa file utama:
 
 ## Cara Menjalankan Proyek
 1. **Clone Repository**: Jika proyek ini ada di GitHub, Anda dapat meng-clone repository menggunakan perintah:
-   ```
+   
    git clone <URL_REPOSITORY>
-   ```
+   
 2. **Buka File HTML**: Buka file `index.html` di browser pilihan Anda.
 
 ## Responsivitas
