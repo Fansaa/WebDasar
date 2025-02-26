@@ -1,5 +1,3 @@
-Sure! Below is a sample README file for your website project. You can customize it further based on your specific needs and preferences.
-
 ```markdown
 # Fansa's Website
 
@@ -7,12 +5,12 @@ Welcome to Fansa's Website! This is a personal website created to showcase my ba
 
 ## Table of Contents
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
+- [Features]
+- [Technologies Used]
+- [Installation]
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Contributing]
+- [License]
 
 ## Features
 
