@@ -32,11 +32,11 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/fansas-website.git
-   ```
+   
 2. Navigate to the project directory:
    ```bash
    cd fansas-website
-   ```
+   
 3. Open the `index.html` file in your web browser.
 
 ## Usage
@@ -53,15 +53,15 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 2. Create your feature branch:
    ```bash
    git checkout -b feature/YourFeature
-   ```
+   
 3. Commit your changes:
    ```bash
    git commit -m "Add some feature"
-   ```
+   
 4. Push to the branch:
    ```bash
    git push origin feature/YourFeature
-   ```
+   
 5. Open a pull request.
 
 ## License
@@ -71,4 +71,3 @@ These projects are open-source. You can download, modify, and share these projec
 ---
 
 Thank you for visiting Fansa's Website! Feel free to reach out if you have any questions or feedback.
-```
